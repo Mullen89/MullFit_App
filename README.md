@@ -8,7 +8,7 @@ This is the first step in a hobb of creating apps that are simple, yet useful, w
 
 What I learned in the creation of this app:
 -------------------------------------------------------------------------------------
-I can be stuck trying to fix a bug for 3 long hours, only to go to sleep and fix it in 5 minutes.
+I can be stuck trying to fix a bug for 3 long hours, only to give up and go to sleep, then fix it in 5 minutes the next morning.
 Always sleep on problems if they can't be fixed quickly.
 
 Always comment as you code. There were many times that I had to re-read what I wrote before just to try and figure out what it is that specific methods do.
