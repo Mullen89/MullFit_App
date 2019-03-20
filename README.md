@@ -1,10 +1,10 @@
 # MullFit_App
-This contains the source code for the Android app "MullFit", that is currently available for download from the Google Play Store.
+This contains the source code for the Android app "MullFit", currently available for download from the Google Play Store at https://play.google.com/store/apps/details?id=mullen.liftnotes&hl=en.
 
-This was my very first app that I  decided to put up on the app store for Android/Google. It was a very intense learning experience for me, as I have never built an app that, although simple in functionality, has over 2000 lines of code in it. 
-This was my second time trying to understand the role of fragments in apps, as my first time was unsucessful. It was nice to finally be able to conquer that little mountain in front of me. 
+This was my very first app that I decided to put up on the Google Play store for Android. It was a very intense learning experience for me, as I have never built an app that, although simple in functionality, has over 2000 lines of code in it. 
+This was my second time trying to understand the role of fragments in apps, as my first time was unsuccessful. It was nice to finally be able to conquer that little mountain in front of me. 
 
-This is the first step in a hobb of creating apps that are simple, yet useful, without the clutter of ads, in-app purchases, or registration of some kind. Just fast, simple, and useful.
+This is the first step in a hobby of creating apps that are simple, yet useful, without the clutter of ads, in-app purchases, or registration of some kind. Just fast, simple, and useful.
 
 What I learned in the creation of this app:
 -------------------------------------------------------------------------------------
@@ -13,8 +13,8 @@ Always sleep on problems if they can't be fixed quickly.
 
 Always comment as you code. There were many times that I had to re-read what I wrote before just to try and figure out what it is that specific methods do.
 
-I added some useful features, such as importing/exporting workouts, based on user feedback. Getting usefule feedback, and taking criticism in a positive manner, allowed me to learn and grow myself a bit more, as well as improve my app.
-People who like your app are good; people who don't like it, and give good reasons as to why, are even better :)
+I added some useful features based on user feedback, such as importing/exporting workouts. Getting useful feedback and taking criticism in a positive manner allowed me to learn and grow as an individual, as well as improve my app.
+People who like your app are good. People who don't like it, and give good reasons as to why are even better :)
 
 App History
 -------------------------------------------------------------------------------------
