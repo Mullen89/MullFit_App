@@ -55,3 +55,6 @@ Changed name to "MullFit", and as of 11/10/2018, it is functionally complete.
            
 -------------------------------------------------------------------------------------
 
+
+Currently, I do not plan to update this app. My current plan is to take what I've learned and make an entirely new app, which will be 
+more professional, paid version of this app, with many additional features.
